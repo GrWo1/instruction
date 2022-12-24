@@ -7,7 +7,7 @@
 ```
 scp -r /локальный_путь_до_папки_на_ПК/static логин@IP_сервера:/home/логин/папка_с_проектом/папка_хранения_статики
 ```
-- Пример: scp -r /Files/yandex.praktikum/static grwo1@84.221.111.206:/home/grwo1/hw05_final/yatube
+> Пример: scp -r /Files/yandex.praktikum/static grwo1@84.221.111.206:/home/grwo1/hw05_final/yatube
 
 Настраиваем права доступа к папке static на сервере:
 1) добавляем учетную запись в группу:
