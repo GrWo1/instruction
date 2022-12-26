@@ -12,6 +12,10 @@
 ```
 CREATE TABLE artists(name TEXT, year_of_birth INTEGER);
 ```
+Делаем запись в таблицу:
+```
+INSERT INTO artists VALUES('Eminem', 1972);
+```
 </details>
   
 </details>
