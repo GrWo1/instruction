@@ -11,10 +11,6 @@
        CREATE TABLE artists(name TEXT, year_of_birth INTEGER);
      </details>
   
-    <details>
-      <summary> <b>Запросы.</b></summary>
-    </details>
-  
 </details>
 
 <details>
