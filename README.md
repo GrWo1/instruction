@@ -8,8 +8,10 @@
 <details>
 <summary><b>Создане таблицы. Заполнение. Вывод данных.</b></summary>
       
-> CREATE TABLE artists(name TEXT, year_of_birth INTEGER);
-      
+> Создаем таблицу artists с двумя полями, определяя им тип данных:
+```
+CREATE TABLE artists(name TEXT, year_of_birth INTEGER);
+```
 </details>
   
 </details>
