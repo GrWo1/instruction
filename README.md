@@ -3,7 +3,9 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="250"/>
 </div>
 
-
+<details>
+  <summary> <b>Инструкция по работе с базами данных. Запросы.</b></summary>
+</details>
 <details>
   <summary> <b>Инструкция по добавлению статики на web-сервер Яндекс.Облако.</b></summary>
   
