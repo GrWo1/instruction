@@ -5,10 +5,10 @@
 
 <details>
   <summary> <b>Инструкция по работе с базами данных. Запросы.</b></summary>
-    <details>
+    - <details>
      <summary> <b>Создане таблицы. Заполнение. Вывод данных.</b></summary>
     </details>
-    <details>
+    - <details>
       <summary> <b>Запросы.</b></summary>
     </details>
   
