@@ -1,7 +1,3 @@
-<style>
-  p{color:Black !important;}
-</style>
-
 ### Небольшая инструкция-шпаргалка по технологиям изучаемых на Яндекс.Практикум
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="250"/>
@@ -47,3 +43,7 @@ sudo chown -R :www-data /полный_путь_до_папки_статики
 
 ### :fire: Мой статус :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=grwo1&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<style>
+  p{color:Black !important;}
+</style>
