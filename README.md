@@ -10,7 +10,7 @@
       
 Создаем таблицу artists с двумя полями(с типом данных):
 ```
-<span style="color:blue">CREATE TABLE</span> artists(name TEXT, year_of_birth INTEGER);
+[CREATE TABLE] artists(name TEXT, year_of_birth INTEGER);
 ```
 </details>
   
