@@ -4,11 +4,15 @@
 </div>
 
 <details>
-  * <summary> <b>Инструкция по работе с базами данных. Запросы.</b></summary>
+  <summary> <b>Инструкция по работе с базами данных. Запросы.</b></summary>
   <details>
-  <summary> <b>Создане таблицы. Заполнение. Вывод данных.</b></summary>
+  * <summary> <b>Создане таблицы. Заполнение. Вывод данных.</b></summary>
     
   </details>
+   * <summary> <b>Создане таблицы. Заполнение. Вывод данных.</b></summary>
+    
+  </details>
+  
 </details>
 
 <details>
