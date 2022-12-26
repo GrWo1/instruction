@@ -5,7 +5,7 @@
 
 1. <details>
   <summary><b>Инструкция по работе с базами данных. Запросы.</b></summary>
-    * <details>
+    -- <details>
       <summary><b>Создане таблицы. Заполнение. Вывод данных.</b></summary>
       > CREATE TABLE artists(name TEXT, year_of_birth INTEGER);
     </details>
