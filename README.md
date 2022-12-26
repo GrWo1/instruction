@@ -20,6 +20,11 @@ INSERT INTO artists VALUES('Eminem', 1972);
 ```
 SELECT * FROM artists;
 ```
+Вернуть заданные поля и отсортированные записи таблицы artists:
+```
+SELECT name FROM artists WHERE year_of_birth = 1972;
+```
+> Запрос вернет: Eminem
 </details>
   
 </details>
