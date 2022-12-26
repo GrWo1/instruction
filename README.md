@@ -16,6 +16,10 @@ CREATE TABLE artists(name TEXT, year_of_birth INTEGER);
 ```
 INSERT INTO artists VALUES('Eminem', 1972);
 ```
+Вернуть все поля и все записи таблицы artists:
+```
+SELECT * FROM artists;
+```
 </details>
   
 </details>
