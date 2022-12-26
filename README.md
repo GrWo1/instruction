@@ -1,5 +1,5 @@
 <style>
-p{color:Black !important;}
+  p{color:Black !important;}
 </style>
 
 ### Небольшая инструкция-шпаргалка по технологиям изучаемых на Яндекс.Практикум
