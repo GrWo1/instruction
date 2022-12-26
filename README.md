@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="250"/>
 </div>
 
-<details>
+1. <details>
   <summary><b>Инструкция по работе с базами данных. Запросы.</b></summary>
     * <details>
       <summary><b>Создане таблицы. Заполнение. Вывод данных.</b></summary>
