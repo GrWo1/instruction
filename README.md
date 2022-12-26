@@ -10,7 +10,7 @@
       
 Создаем таблицу artists с двумя полями(с типом данных):
 ```
-CREATE TABLE artists(name TEXT, year_of_birth INTEGER);
+[CREATE TABLE](#) artists(name TEXT, year_of_birth INTEGER);
 ```
 </details>
   
@@ -43,8 +43,3 @@ sudo chown -R :www-data /полный_путь_до_папки_статики
 
 ### :fire: Мой статус :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=grwo1&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
-[Blue]()
-
-
