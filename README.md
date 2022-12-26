@@ -9,9 +9,9 @@
 <summary><b>Создане таблицы. Заполнение. Вывод данных.</b></summary>
       
 Создаем таблицу artists с двумя полями(с типом данных):
-```
+
 [CREATE TABLE] artists(name TEXT, year_of_birth INTEGER);
-```
+
 </details>
   
 </details>
