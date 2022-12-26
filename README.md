@@ -2,6 +2,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="250"/>
 </div>
+
 <details>
   <summary><b>Инструкция по работе с базами данных. Запросы.</b></summary>
     <details>
@@ -9,6 +10,7 @@
       > CREATE TABLE artists(name TEXT, year_of_birth INTEGER);
     </details>
 </details>
+
 <details>
 <summary> <b>Инструкция по добавлению статики на web-сервер Яндекс.Облако.</b></summary>
 Открываем терминал и копируем папку со статикой на сервер:
