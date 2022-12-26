@@ -1,3 +1,7 @@
+<style>
+p{color:Black !important;}
+</style>
+
 ### Небольшая инструкция-шпаргалка по технологиям изучаемых на Яндекс.Практикум
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="250"/>
@@ -9,9 +13,9 @@
 <summary><b>Создане таблицы. Заполнение. Вывод данных.</b></summary>
       
 Создаем таблицу artists с двумя полями(с типом данных):
-
-[CREATE TABLE] artists(name TEXT, year_of_birth INTEGER);
-
+```
+CREATE TABLE artists(name TEXT, year_of_birth INTEGER);
+```
 </details>
   
 </details>
