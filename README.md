@@ -45,6 +45,6 @@ sudo chown -R :www-data /полный_путь_до_папки_статики
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=grwo1&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
-<div style="color:Red;">Red</div>
+# Red [Blue] (#)
 
 
