@@ -8,8 +8,9 @@
     <details>
      <summary> <b>Создане таблицы. Заполнение. Вывод данных.</b></summary>
       ```
-      <p>CREATE TABLE artists(name TEXT, year_of_birth INTEGER);</p>
+      CREATE TABLE artists(name TEXT, year_of_birth INTEGER);
       ```
+      
      </details>
   
 </details>
