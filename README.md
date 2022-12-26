@@ -26,5 +26,6 @@ www-data sudo usermod -a -G ЛОГИН www-data
 sudo chown -R :www-data /полный_путь_до_папки_статики
 ```
 </details>
+
 ### :fire: Мой статус :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=grwo1&theme=dark&background=000000)](https://git.io/streak-stats)
