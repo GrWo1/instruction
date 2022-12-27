@@ -98,6 +98,10 @@ SELECT *
 FROM artists
 WHERE genre LIKE 'Hip%';
 ```
+При таком запросе вернется:
+name | genre | year_of_birth
+:----- | :----: | :-----:
+Eminem  | Hip-hop | 1972
 </details> 
 </details>
 
