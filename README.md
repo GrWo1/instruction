@@ -104,7 +104,8 @@ name | genre | year_of_birth
 Eminem  | Hip-hop | 1972
 
 Больше операторов можно посмотреть [ТУТ](https://www.techonthenet.com/sqlite/comparison_operators.php)
-Оператор WHERE позволяет использовать множество условий одновременно:
+
+Оператор WHERE позволяет использовать множество условий одновременно. Для объединения сразу нескольких условий используются операторы AND, OR или NOT.
 ```
 SELECT *       
 FROM artists
