@@ -176,6 +176,9 @@ WHERE year_of_birth > 1980;
 ```
 При таком запросе вернется: 9
 </details>
+<details>
+<summary> <b>Группировка GROUP BY и фильтрация HAVING.</b></summary>
+</details>
 </details>
 
 <details>
