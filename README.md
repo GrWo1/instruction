@@ -28,6 +28,7 @@ SELECT name FROM artists WHERE year_of_birth = 1972;
 </details>
 <details>
 <summary><b>Получение данных: SELECT, FROM, WHERE, DISTINCT.</b></summary>
+
 ##### Фильтрация по столбцам
 После оператора SELECT указывают названия полей, значения которых должны вернуться в ответе; после FROM — названия таблиц, в которых надо искать данные.
 </details> 
