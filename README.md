@@ -49,6 +49,17 @@ name | year_of_birth
 Eminem | 1972
 Linkin Park | 1996
 Metallica | 1981
+#### Фильтрация по строкам
+- WHERE - фильтрует забиси в базе данных
+```
+SELECT *
+FROM artists
+WHERE year_of_birth > 1990;
+```
+При таком запросе вернется:
+name | genre | year_of_birth
+:----- | :----: | :-----:
+Linkin Park  | Alternative  | 1996
 </details> 
 </details>
 
