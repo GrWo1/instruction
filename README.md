@@ -103,7 +103,17 @@ name | genre | year_of_birth
 :----- | :----: | :-----:
 Eminem  | Hip-hop | 1972
 
-Больше операторов можно посмотреть ![ТУТ](https://www.techonthenet.com/sqlite/comparison_operators.php)
+Больше операторов можно посмотреть [ТУТ](https://www.techonthenet.com/sqlite/comparison_operators.php)
+Оператор WHERE позволяет использовать множество условий одновременно:
+```
+SELECT *       
+FROM artists
+WHERE genre LIKE 'Hip%' AND year_of_birth = 1972;
+```
+При таком запросе вернется:
+name | genre | year_of_birth
+:----- | :----: | :-----:
+Eminem  | Hip-hop | 1972
 </details> 
 </details>
 
