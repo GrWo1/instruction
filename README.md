@@ -125,7 +125,7 @@ Eminem | Hip-hop | 1972
 Linkin Park | Alternative  | 1996
 Metallica | Metal  | 1981
 IceCube | Hip-hop | 1969
-IceCube | Hip-hop | 1965
+DrDre | Hip-hop | 1965
 ```
 SELECT DISTINCT genre
 FROM artists;
@@ -145,6 +145,15 @@ Metal
 ```
 SELECT АГРЕГИРУЮЩАЯ_ФУНКЦИЯ(поле)    
 FROM Таблица; 
+```
+Рассмотрим БД со следующими полями:
+name | genre | year_of_birth | albums
+:----- | :----: | :-----: | :-----:
+Eminem | Hip-hop | 1972 | 11
+Linkin Park | Alternative  | 1996 | 7
+Metallica | Metal  | 1981 | 11
+IceCube | Hip-hop | 1969 | 10
+DrDre | Hip-hop | 1965 | 3
 ```
 </details>
 </details>
