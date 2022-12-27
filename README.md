@@ -26,7 +26,9 @@ SELECT name FROM artists WHERE year_of_birth = 1972;
 ```
 > Запрос вернет: Eminem
 </details>
-  
+<details>
+<summary><b>Получение данных: SELECT, FROM, WHERE, DISTINCT.</b></summary>
+</details> 
 </details>
 
 <details>
