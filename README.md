@@ -103,7 +103,7 @@ name | genre | year_of_birth
 :----- | :----: | :-----:
 Eminem  | Hip-hop | 1972
 
-Больше операторов можно посмотреть [ТУТ](https://www.techonthenet.com/sqlite/comparison_operators.php)
+Больше операторов можно посмотреть ![ТУТ](https://www.techonthenet.com/sqlite/comparison_operators.php)
 </details> 
 </details>
 
