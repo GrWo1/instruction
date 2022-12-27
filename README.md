@@ -67,6 +67,16 @@ Linkin Park  | Alternative  | 1996
 - < - меньше
 - \>= - больше или равно
 - <= - меньше или равно
+- BETWEEN начало_диапазона AND конец_диапазона - проверка в диапазоне значений. Например:
+```
+SELECT name       
+FROM artists
+WHERE year_of_birth BETWEEN 1980 AND 1990;
+```
+При таком запросе вернется:
+name 
+:-----
+Metallica
 </details> 
 </details>
 
