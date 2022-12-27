@@ -116,6 +116,25 @@ name | genre | year_of_birth
 :----- | :----: | :-----:
 Eminem  | Hip-hop | 1972
 Metallica  | Metal  | 1981
+- DISTINCT - вывод уникальных значений
+Рассмотрим БД со следующими полями:
+name | genre | year_of_birth
+:----- | :----: | :-----:
+Eminem | Hip-hop | 1972
+Linkin Park | Alternative  | 1996
+Metallica | Metal  | 1981
+IceCube | Hip-hop | 1969
+IceCube | Hip-hop | 1965
+```
+SELECT DISTINCT genre
+FROM artists;
+```
+При таком запросе вернется:
+genre 
+:----:
+Hip-hop
+Alternative
+Metal
 </details> 
 </details>
 
