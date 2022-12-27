@@ -155,6 +155,7 @@ Metallica | Metal  | 1981 | 11
 IceCube | Hip-hop | 1969 | 10
 DrDre | Hip-hop | 1965 | 3
 ```
+
 </details>
 </details>
 
