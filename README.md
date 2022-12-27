@@ -139,7 +139,12 @@ Metal
 </details>
   
 <details>
-<summary> <b>Агрегирующие функции COUNT, MIN, MAX, AVG, SUM.</b></summary> 
+<summary> <b>Агрегирующие функции COUNT, MIN, MAX, AVG, SUM.</b></summary>
+В общем виде запрос с агрегирующией функцией выглядит так:
+```
+SELECT АГРЕГИРУЮЩАЯ_ФУНКЦИЯ(поле)    
+FROM Таблица; 
+```
 </details>
 </details>
 
