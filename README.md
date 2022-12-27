@@ -43,6 +43,12 @@ SELECT name,
        year_of_birth
 FROM artists; 
 ```
+При таком запросе вернется:
+name | year_of_birth
+:----- | :-----:
+Eminem | 1972
+Linkin Park | 1996
+Metallica | 1981
 </details> 
 </details>
 
