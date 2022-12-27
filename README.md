@@ -136,7 +136,11 @@ genre
 Hip-hop
 Alternative
 Metal
-</details> 
+</details>
+  
+<details>
+<summary> <b>Агрегирующие функции COUNT, MIN, MAX, AVG, SUM.</b></summary> 
+</details>
 </details>
 
 <details>
