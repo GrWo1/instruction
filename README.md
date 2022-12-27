@@ -154,13 +154,12 @@ Linkin Park | Alternative  | 1996 | 7
 Metallica | Metal  | 1981 | 11
 IceCube | Hip-hop | 1969 | 10
 DrDre | Hip-hop | 1965 | 3
-- COUNT  - подсчет количесва записей в БД.
+- COUNT  - подсчет количесва записей в БД. Через COUNT можно подсчитать число записей в любой выборке, например, с условием  WHERE.
 ```
 SELECT COUNT(*)
 FROM artists; 
 ```
 При таком запросе вернется: 5
-Через COUNT можно подсчитать число записей в любой выборке, например, с условием  WHERE.
 
 - MIN и MAX - поиск минимального или максимального значения в БД.
 ```
@@ -175,6 +174,7 @@ SELECT AVG(albums)
 FROM artist
 WHERE year_of_birth > 1980;
 ```
+При таком запросе вернется: 9
 </details>
 </details>
 
