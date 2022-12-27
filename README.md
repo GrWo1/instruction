@@ -109,12 +109,13 @@ Eminem  | Hip-hop | 1972
 ```
 SELECT *       
 FROM artists
-WHERE genre LIKE 'Hip%' AND year_of_birth = 1972;
+WHERE genre LIKE 'Hip%' OR year_of_birth = 1981;
 ```
 При таком запросе вернется:
 name | genre | year_of_birth
 :----- | :----: | :-----:
 Eminem  | Hip-hop | 1972
+Metallica  | Metal  | 1981
 </details> 
 </details>
 
