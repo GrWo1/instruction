@@ -77,6 +77,16 @@ WHERE year_of_birth BETWEEN 1980 AND 1990;
 name 
 :-----
 Metallica
+- IN - вхождение в список
+```
+SELECT *       
+FROM artists
+WHERE genre IN ('Alternative', 'Metal');
+```
+name | genre | year_of_birth
+:----- | :----: | :-----:
+Linkin Park  | Alternative  | 1996
+Metallica  | Metal  | 1981
 </details> 
 </details>
 
