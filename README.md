@@ -146,7 +146,6 @@ Metal
 SELECT АГРЕГИРУЮЩАЯ_ФУНКЦИЯ(поле)    
 FROM Таблица;
 ```
-
 Рассмотрим БД со следующими полями:
 name | genre | year_of_birth | albums
 :----- | :----: | :-----: | :-----:
@@ -156,7 +155,7 @@ Metallica | Metal  | 1981 | 11
 IceCube | Hip-hop | 1969 | 10
 DrDre | Hip-hop | 1965 | 3
 ```
-
+123
 </details>
 </details>
 
