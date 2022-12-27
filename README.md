@@ -32,6 +32,11 @@ SELECT name FROM artists WHERE year_of_birth = 1972;
 #### Фильтрация по столбцам
 - Оператор SELECT - указывают названия полей, значения которых должны вернуться в ответе;
 - FROM — названия таблиц, в которых надо искать данные.
+```
+SELECT name,
+       year_of_birth
+FROM artists; 
+```
 </details> 
 </details>
 
