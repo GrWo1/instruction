@@ -117,6 +117,7 @@ name | genre | year_of_birth
 Eminem  | Hip-hop | 1972
 Metallica  | Metal  | 1981
 - DISTINCT - вывод уникальных значений
+
 Рассмотрим БД со следующими полями:
 name | genre | year_of_birth
 :----- | :----: | :-----:
