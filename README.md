@@ -87,6 +87,9 @@ name | genre | year_of_birth
 :----- | :----: | :-----:
 Linkin Park  | Alternative  | 1996
 Metallica  | Metal  | 1981
+- LIKE - использование маски для вывода данных.
+     * % - любое количество символов(в том числе и 0);
+     * _ - один символ.
 </details> 
 </details>
 
