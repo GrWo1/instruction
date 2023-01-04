@@ -206,5 +206,27 @@ sudo chown -R :www-data /полный_путь_до_папки_статики
   
 </details>
 
+<details>
+<summary> <b>Инструкция по git push.</b></summary>
+Создаем на GitHub персональный token.
+
+1. In the upper-right corner of any page, click your profile photo, then click Settings.
+
+2. In the left sidebar, click Developer settings.
+
+3. In the left sidebar, click Personal access tokens.
+
+4. Click Generate new token.
+
+5. Give your token a descriptive name.
+
+6. Select the scopes, or permissions, you’d like to grant this token. To use your token to access repositories from the command line, select repo.
+
+7. Click Generate token.
+
+8. Copy the token to your clipboard. For security reasons, after you navigate off the page, you will not be able to see the token again.
+
+</details>
+
 ### :fire: Мой статус :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=grwo1&theme=dark&background=000000)](https://git.io/streak-stats)
