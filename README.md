@@ -233,7 +233,7 @@ git config remote.origin.url https://github.com/ЛОГИН_GITHUB/ВЕТКА_П�
 8. Копируем и втавляем вместо пароля при push.
   
 <div align="center">
-  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://mycyberuniverse.com/images/webp/articles/Arthur/how-fix-fatal-authentication-failed-for-https-github-com/1.webp)" width="500" height="250"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://mycyberuniverse.com/images/webp/articles/Arthur/how-fix-fatal-authentication-failed-for-https-github-com/1.webp" width="500" height="250"/>
 </div>
   
 Push проекта:
