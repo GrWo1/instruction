@@ -208,6 +208,10 @@ sudo chown -R :www-data /полный_путь_до_папки_статики
 
 <details>
 <summary> <b>Инструкция по git push.</b></summary>
+Настроить ввод логина и пароля при push:
+```
+git config remote.origin.url https://github.com/ЛОГИН_GITHUB/ВЕТКА_ПРОЕКТА.git
+```
 Создаем на GitHub персональный token.
 
 1. переходим в Settings профиля на GitHub.
