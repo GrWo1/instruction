@@ -207,7 +207,7 @@ sudo chown -R :www-data /полный_путь_до_папки_статики
 </details>
 
 <details>
-<summary> <b>Инструкция по git push.</b></summary>
+<summary> <b>Инструкция по git push по логину и паролю.</b></summary>
 
 Настроить ввод логина и пароля при push:
 
