@@ -245,7 +245,25 @@ git push -u -f origin master
 
 <details>
 <summary> <b>Инструкция по миграциям на web сервере(docker-compose)</b></summary>
-
+  
+Логинемся на сервер:
+```
+sss <имя>@<ip_адрес>
+```
+Смотрим образы и выбираем ID образа с названием вашей ветки:
+```
+sudo docker ps
+```
+Выбираем образ:
+```
+ sudo docker exec -it <ID-образа> bash
+```
+Делаем миграции, создаем пользователя и подключаем статику:
+```
+python manage.py migrate
+python manage.py createsuperuser
+python manage.py collectstatic --no-input
+```
 </details>
 
 ### :fire: Мой статус :
