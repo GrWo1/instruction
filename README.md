@@ -243,5 +243,10 @@ git push -u -f origin master
 
 </details>
 
+<details>
+<summary> <b>Инструкция по миграциям на web сервере(docker-compose)</b></summary>
+
+</details>
+
 ### :fire: Мой статус :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=grwo1&theme=dark&background=000000)](https://git.io/streak-stats)
