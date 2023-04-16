@@ -1,4 +1,8 @@
 ### Небольшая инструкция-шпаргалка по технологиям изучаемых на Яндекс.Практикум(Бэкенд на Django)
+
+* <a href="mailto:s9197937187@gmail.com">Написать письмо</a>
+* <a href="https://t.me/grwo1">Телеграм</a>
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="250"/>
 </div>
