@@ -187,6 +187,8 @@ WHERE year_of_birth > 1980;
 </details>
 </details>
 
+---
+
 <details>
 <summary> <b>Инструкция по добавлению статики на web-сервер Яндекс.Облако.</b></summary>
 Открываем терминал и копируем папку со статикой на сервер:
@@ -211,6 +213,8 @@ sudo chown -R :www-data /полный_путь_до_папки_статики
 ```
   
 </details>
+
+---
 
 <details>
 <summary> <b>Инструкция по git push по логину и паролю.</b></summary>
@@ -249,6 +253,8 @@ git push -u -f origin master
 
 </details>
 
+---
+
 <details>
 <summary> <b>Инструкция по миграциям на web сервере(docker-compose)</b></summary>
   
@@ -271,6 +277,8 @@ python manage.py createsuperuser
 python manage.py collectstatic --no-input
 ```
 </details>
+
+---
 
 ### :fire: Мой статус :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=grwo1&theme=dark&background=000000)](https://git.io/streak-stats)
